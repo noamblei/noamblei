@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![Banner](https://github.com/noamblei/noamblei/assets/74504034/38e25961-7a87-4cb8-ab27-1f748edabb18)
+### Hey there! I am using GitHub
 
 <!--
 **noamblei/noamblei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
