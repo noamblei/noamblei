@@ -1,6 +1,13 @@
-
+# Hey there! I am using GitHub
 ![Banner](https://github.com/noamblei/noamblei/assets/74504034/38e25961-7a87-4cb8-ab27-1f748edabb18)
-### Hey there! I am using GitHub
+
+# I'm looking to collaborate on:
+Yes, please.<br/>
+(No but really, let's work on some project together!)
+
+# If you wanna go, you can just:
+- Save and exit: :wq
+- Exit without saving: :q!
 
 <!--
 **noamblei/noamblei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
