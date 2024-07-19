@@ -1,7 +1,8 @@
 # Hey there! I am using GitHub
-![Banner](https://github.com/noamblei/noamblei/assets/74504034/38e25961-7a87-4cb8-ab27-1f748edabb18)
+![ngew](https://github.com/user-attachments/assets/ee46ac56-46c2-43d4-88ee-a8d4a3ef78d7)
 
 # I'm looking to collaborate on:
+
 Yes, please.<br/>
 (No but really, let's work on some project together!)
 
